@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054193714589",
+    "project_id": "chat-gkt",
+    "storage_bucket": "chat-gkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054193714589:android:0ade0b3dcc99d5e373db74",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemSXWS6uPmApf-GrNiqUj9UV_8jQynhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

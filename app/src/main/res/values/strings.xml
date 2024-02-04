@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="chat_gkt">CHAT-GKT</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="age">age</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="type_message">Введите сообщение...</string>
+</resources>
